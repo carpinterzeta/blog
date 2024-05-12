@@ -11,9 +11,9 @@ tags = ["Test", "Web sencilla", "Hugo", "Inspiración"]
 +++
 
 ## Hola Mundo!
+
 Esto es una entrada de prueba, para testear que el flujo de actualización para la generación de páginas estáticas funciona.
 Este site está desarrollando mediante el generador de sitios estáticos [hugo](https://gohugo.io), con el tema [hugo-bearblog](https://themes.gohugo.io/themes/hugo-bearblog/) desarrollado por [Jan Raasch](https://www.janraasch.com/)
----
 Mi idea es que este blog esté en constante cambio y tenga un buen nivel de actualización.
 
 La inspiración para este proyecto se lo debo a los siguientes sites y usuarios de Mastodon. Me considero un usuario novel en esto del mundo federado y Mastodo, pero he encontrado un nicho en la web en la que me siento representado y agusto consumiendo contenido generado por y para personas, sin las complicaciones de los intereses comerciales.
@@ -29,5 +29,5 @@ Las próximas actualizaciones del blog deberían incluir:
 - Inclusión de más secciones
 
 Muchas gracias por leer :)
-krpntrz.
+krpntrz
 

@@ -4,7 +4,7 @@ title = "Krpntrz's blog"
 
 # Bienvenid@!
 
-Este es mi blog personal. ¿Quién soy? no importa. Soy una persona sencilla, con una web sencilla.
+Este es mi blog personal. Pretende ser una web sencilla, respetuosa y entretenida.
 
 Entra y ponte cómod@.
 

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Krpntrz Blog</title>
-    <link>http://localhost:1313/blog/blog/</link>
-    <description>Recent content in Blog on Krpntrz Blog</description>
+    <title>Test on Krpntrz Blog</title>
+    <link>http://localhost:1313/blog/blog/test/</link>
+    <description>Recent content in Test on Krpntrz Blog</description>
     <generator>Hugo</generator>
     <language>es-ES</language>
     <copyright>Copyright © 2024, krpntrz.</copyright>
     <lastBuildDate>Sun, 12 May 2024 10:32:03 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/blog/test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hola Mundo</title>
       <link>http://localhost:1313/blog/hola-mundo/</link>

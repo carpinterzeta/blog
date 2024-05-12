@@ -1,6 +1,6 @@
 # Base URL used when generating links to your pages
 # Set to the URL for your site
-baseURL = "https://carpinterzeta.github.io/blog/"
+baseURL = "https://carpinterzeta.github.io/"
 theme = "hugo-bearblog"
 
 

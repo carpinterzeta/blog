@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/blog/</loc>
+    <loc>https://krpntrz.xyz/blog/</loc>
     <lastmod>2024-05-12T10:32:03+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/hola-mundo/</loc>
+    <loc>https://krpntrz.xyz/hola-mundo/</loc>
     <lastmod>2024-05-12T10:32:03+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/blog/hugo/</loc>
+    <loc>https://krpntrz.xyz/blog/hugo/</loc>
     <lastmod>2024-05-12T10:32:03+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/blog/inspiraci%C3%B3n/</loc>
+    <loc>https://krpntrz.xyz/blog/inspiraci%C3%B3n/</loc>
     <lastmod>2024-05-12T10:32:03+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://krpntrz.xyz/</loc>
     <lastmod>2024-05-12T10:32:03+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/blog/test/</loc>
+    <loc>https://krpntrz.xyz/blog/test/</loc>
     <lastmod>2024-05-12T10:32:03+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/blog/web-sencilla/</loc>
+    <loc>https://krpntrz.xyz/blog/web-sencilla/</loc>
     <lastmod>2024-05-12T10:32:03+02:00</lastmod>
   </url>
 </urlset>

@@ -7,14 +7,14 @@
     <generator>Hugo</generator>
     <language>es-ES</language>
     <copyright>Copyright © 2024, krpntrz.</copyright>
-    <lastBuildDate>Mon, 13 May 2024 10:20:38 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 21:45:50 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test 1</title>
-      <link>http://localhost:1313/test-1/</link>
-      <pubDate>Mon, 13 May 2024 10:20:38 +0200</pubDate>
-      <guid>http://localhost:1313/test-1/</guid>
-      <description>test</description>
+      <title>Instalando Yay</title>
+      <link>http://localhost:1313/instalando-yay/</link>
+      <pubDate>Mon, 13 May 2024 21:45:50 +0200</pubDate>
+      <guid>http://localhost:1313/instalando-yay/</guid>
+      <description>En esta entrada corta quiero dejar reflejado el proceso de instalación del helper yay de Arch Linux. Un helper es una herramienta que facilita la gestión en la instalación y mantenimiento de los paquetes AUR (abreviatura de Arch User Repository), donde la comunidad sube las descripciones de los paquetes (PKGBUILD) que permiten compilar un paquete desde código fuente con makepkg para su posterior instalación con pacman.&#xA;Los pasos serían los siguientes:</description>
     </item>
     <item>
       <title>Hola Mundo</title>

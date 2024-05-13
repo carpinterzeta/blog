@@ -2,28 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/blog/arch/</loc>
+    <lastmod>2024-05-13T21:45:50+02:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2024-05-13T10:20:38+02:00</lastmod>
+    <lastmod>2024-05-13T21:45:50+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/hugo/</loc>
-    <lastmod>2024-05-13T10:20:38+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/inspiraci%C3%B3n/</loc>
-    <lastmod>2024-05-13T10:20:38+02:00</lastmod>
+    <loc>http://localhost:1313/instalando-yay/</loc>
+    <lastmod>2024-05-13T21:45:50+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-05-13T10:20:38+02:00</lastmod>
+    <lastmod>2024-05-13T21:45:50+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/test/</loc>
-    <lastmod>2024-05-13T10:20:38+02:00</lastmod>
+    <loc>http://localhost:1313/blog/tutorial/</loc>
+    <lastmod>2024-05-13T21:45:50+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/test-1/</loc>
-    <lastmod>2024-05-13T10:20:38+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/web-sencilla/</loc>
-    <lastmod>2024-05-13T10:20:38+02:00</lastmod>
+    <loc>http://localhost:1313/blog/yay/</loc>
+    <lastmod>2024-05-13T21:45:50+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hola-mundo/</loc>
+    <lastmod>2024-05-12T10:32:03+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/hugo/</loc>
+    <lastmod>2024-05-12T10:32:03+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/inspiraci%C3%B3n/</loc>
+    <lastmod>2024-05-12T10:32:03+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/test/</loc>
+    <lastmod>2024-05-12T10:32:03+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/web-sencilla/</loc>
     <lastmod>2024-05-12T10:32:03+02:00</lastmod>
   </url>
 </urlset>

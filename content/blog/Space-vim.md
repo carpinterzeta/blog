@@ -1,6 +1,6 @@
 +++
 title = "Spacevim"
-date = "2024-05-15T17:00:03+02:00"
+date = "2024-05-15T16:58:03+02:00"
 
 #
 # description is optional

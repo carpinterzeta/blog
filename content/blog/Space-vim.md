@@ -1,5 +1,5 @@
 +++
-title = "Space-vim"
+title = "Spacevim"
 date = "2024-05-15T:11:03+02:00"
 
 #

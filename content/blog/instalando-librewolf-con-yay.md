@@ -21,7 +21,7 @@ A mi me ha dado problemas la orden:
 yay -S librewolf
 ```
 
-Intuyo que por un problema de firmas.
+Intuyo que por un problema de firmas. Pero no estoy totalmente seguro.
 
 Lo he solucionado instalando en su lugar este paquete:
 

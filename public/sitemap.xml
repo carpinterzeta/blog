@@ -3,21 +3,63 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/blog/arch/</loc>
-    <lastmod>2024-05-13T21:45:50+02:00</lastmod>
+    <lastmod>2024-05-25T09:16:50+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2024-05-13T21:45:50+02:00</lastmod>
+    <lastmod>2024-05-25T09:16:50+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/instalando-yay/</loc>
-    <lastmod>2024-05-13T21:45:50+02:00</lastmod>
+    <loc>http://localhost:1313/instalando-librewolf-con-yay/</loc>
+    <lastmod>2024-05-25T09:16:50+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-05-13T21:45:50+02:00</lastmod>
+    <lastmod>2024-05-25T09:16:50+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/librewolf/</loc>
+    <lastmod>2024-05-25T09:16:50+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/navegador/</loc>
+    <lastmod>2024-05-25T09:16:50+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/opensource/</loc>
+    <lastmod>2024-05-25T09:16:50+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/tutorial/</loc>
-    <lastmod>2024-05-13T21:45:50+02:00</lastmod>
+    <lastmod>2024-05-25T09:16:50+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/yay/</loc>
+    <lastmod>2024-05-25T09:16:50+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/herramientas/</loc>
+    <lastmod>2024-05-15T16:58:03+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/ide/</loc>
+    <lastmod>2024-05-15T16:58:03+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/neovim/</loc>
+    <lastmod>2024-05-15T16:58:03+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/open-source/</loc>
+    <lastmod>2024-05-15T16:58:03+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/spacevim/</loc>
+    <lastmod>2024-05-15T16:58:03+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/spacevim/</loc>
+    <lastmod>2024-05-15T16:58:03+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/vim/</loc>
+    <lastmod>2024-05-15T16:58:03+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/dise%C3%B1o/</loc>
+    <lastmod>2024-05-14T21:11:03+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/penpont-la-herramienta-de-dise%C3%B1o-open-source/</loc>
+    <lastmod>2024-05-14T21:11:03+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/penpot/</loc>
+    <lastmod>2024-05-14T21:11:03+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/instalando-yay/</loc>
     <lastmod>2024-05-13T21:45:50+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hola-mundo/</loc>

@@ -1,5 +1,5 @@
 +++
-title = "Krpntrz's blog"
+title = "Blog"
 +++
 
 # Bienvenid@!

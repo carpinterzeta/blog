@@ -1,6 +1,6 @@
 +++
 title = "Viendo el tiempo en consola"
-date = "2024-06-9T08:48:50+02:00"
+date = "2024-06-09T08:48:50+02:00"
 tags = ["tutorial","wttr","consola","alacritty","arch"]
 +++
 
